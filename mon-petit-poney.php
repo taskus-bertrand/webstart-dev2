@@ -1,1 +1,3 @@
-Ceci est mon fichier qui parlera des petits poneys
+<?php
+
+//Ceci est mon fichier qui parlera des petits poneys
